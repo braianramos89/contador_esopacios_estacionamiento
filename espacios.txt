@@ -1,8 +1,10 @@
-espacio1 = [1, 89, 108, 213]
-espacio2 = [115, 87, 152, 211]
-espacio3 = [289, 89, 138, 212]
-espacio4 = [439, 87, 135, 212]
-espacio5 = [591, 90, 132, 206]
-espacio6 = [738, 93, 139, 204]
-espacio7 = [881, 93, 138, 201]
-espacio8 = [1027, 94, 147, 202]
+# Espacios iniciales definidos manualmente video1
+espacio1 = [75, 215, 136, 128]
+espacio2 = [40, 43, 88, 52]
+espacio3 = [36, 346, 170, 189]
+espacio4 = [194, 346, 158, 188]
+espacio5 = [210, 214, 127, 129]
+espacio6 = [199, 42, 87, 55]
+espacio7 = [338, 328, 108, 208]
+espacio8 = [320, 214, 122, 111]
+
